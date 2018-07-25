@@ -1,7 +1,5 @@
 
-<<<<<<< HEAD
 hello heyyy
-=======
 hello FDDG
 FG
 
@@ -13,4 +11,4 @@ F
 F
 HF
 GFHFTHSHSGFHFHZF
->>>>>>> newUI
+
