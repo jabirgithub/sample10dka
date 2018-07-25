@@ -11,4 +11,21 @@ F
 F
 HF
 GFHFTHSHSGFHFHZF
+<<<<<<< HEAD
 
+=======
+lkjlks
+sgs:GLMk
+drhar
+ehaerh
+rhg
+areh
+arhae
+rhearh
+
+erh
+eahaer
+rae
+
+are
+>>>>>>> newUI

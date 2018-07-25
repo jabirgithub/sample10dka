@@ -1,4 +1,5 @@
 hello
+<<<<<<< HEAD
 sgsRHdh
 fkygxyf
 tfjraj
@@ -11,4 +12,28 @@ jjztj
 tz
 ehtd
 
+=======
+hvdhvdh
+dgdf,s
+sdgsg
+sg
+sg
+s
+g
+sg
+sg
+s
+gsg
+ewgsegwrgrehgh
+srg
+shgwhw
+h
+w
+h
+w
+w
+weh
+hw
+hww
+>>>>>>> newUI
 
